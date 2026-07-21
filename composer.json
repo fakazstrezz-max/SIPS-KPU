@@ -1,0 +1,10 @@
+{
+    "name": "kpu-maluku/sips",
+    "description": "Sistem Penomoran Surat Otomatis - KPU Provinsi Maluku",
+    "require": {
+        "php": ">=8.2",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "ext-pdo_pgsql": "*"
+    }
+}
